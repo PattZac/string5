@@ -1,0 +1,6 @@
+C:\Users\unkno\source\repos\string5\string5\bin\Debug\string5.exe.config
+C:\Users\unkno\source\repos\string5\string5\bin\Debug\string5.exe
+C:\Users\unkno\source\repos\string5\string5\bin\Debug\string5.pdb
+C:\Users\unkno\source\repos\string5\string5\obj\Debug\string5.csproj.CoreCompileInputs.cache
+C:\Users\unkno\source\repos\string5\string5\obj\Debug\string5.exe
+C:\Users\unkno\source\repos\string5\string5\obj\Debug\string5.pdb
